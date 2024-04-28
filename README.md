@@ -1,4 +1,3 @@
-Re-implementation of the paper: https://www.sciencedirect.com/science/article/pii/S2352914821000472?via%3Dihub
 
 Site Link : https://stupendous-gingersnap-6a7782.netlify.app/ 
 
